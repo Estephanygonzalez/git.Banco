@@ -1,0 +1,115 @@
+body{
+    font-size: 62.5%
+}
+*{
+   padding:0;
+   margin:0;
+}
+
+ a{
+    text-decoration :none;
+    text-align:center;
+    color:rgb(0, 0, 0);
+ }
+    
+ul{
+    display:flex;
+    justify-content:space-evenly;
+    list-style: none;
+    background-color:greenyellow ;
+    padding: 15px 0px;
+    text-align:center ;
+    border-radius:10px;
+    }
+    .cuadro1{
+        width: 380px;
+        height: 340px;
+        text-align: justify;
+        border: solid 3px  rgb(69, 241, 170);
+        border-radius: 20px;
+        filter: drop-shadow(8px 8px 4px #71ff55);
+        background-color: rgb(240, 239, 238);
+        position: absolute;
+        left: 380px;
+        margin-top: 30px;
+    }
+    .texto1{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .imagen1{
+        text-align: center;
+    }
+    .titulo1{
+        text-align: center;
+    }
+    .cuadro2{
+        width: 380px;
+        height: 340px;
+        text-align: justify;
+        border: solid 3px  rgb(69, 241, 170);
+        border-radius: 20px;
+        background-color: rgb(240, 239, 238);
+        filter: drop-shadow(8px 8px 4px #71ff55);
+        left: 840px;
+        position: absolute;
+        margin-top: 30px;
+    }
+    .texto2{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .imagen2{
+        text-align: center;
+    }
+    .titulo2{
+        text-align: center;
+    }
+    .cuadro3{
+        width: 380px;
+        height: 340px;
+        text-align: justify;
+        border: solid 3px  rgb(69, 241, 170);
+        border-radius: 20px;
+        background-color: rgb(245, 252, 229);
+        filter: drop-shadow(8px 8px 4px #71ff55);
+        position: absolute;
+        left: 380px;
+        margin-top: 30px;
+        top: 780px;
+     }
+     .texto3{
+        margin-left: 20px;
+        margin-right: 20px;
+     }
+     .imagen3{
+        text-align: center;
+    }
+     
+     .titulo3{
+        text-align: center;
+     }
+     .cuadro4{
+        width: 380px;
+        height: 340px;
+        text-align: justify;
+        border: solid 3px  rgb(69, 241, 170);
+        border-radius: 20px;
+        background-color: rgb(240, 239, 238);
+        filter: drop-shadow(8px 8px 4px #71ff55);
+        left: 840px;
+        position: absolute;
+        margin-top: 30px;
+        top:780px;
+    }
+    .texto4{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .imagen4{
+        text-align: center;
+    }
+    .titulo4{
+        text-align: center;
+    }
+    
